@@ -2,7 +2,7 @@
     "name": "vscode-extension-template",
     "displayName": "vscode-extension-template",
     "description": "vscode-extension-template",
-    "version": "0.0.9",
+    "version": "0.0.1",
     "license": "MIT",
     "publisher": "TsubasaYeung",
     "engines": {
